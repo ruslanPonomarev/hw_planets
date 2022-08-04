@@ -1,0 +1,25 @@
+.conteiner {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .conteiner .input-cont {
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  .conteiner .inf-container {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+  }
+  .conteiner .error {
+    color: red;
+    font-size: large;
+    font-weight: 400;
+  }
+  .conteiner span {
+    font-size: larger;
+  }/*# sourceMappingURL=main.css.map */
